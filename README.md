@@ -1,2 +1,4 @@
 # hello-world
-This is learning test
+Hi Strangers!
+Just like to learn about github
+I am a very simple and easy person!
